@@ -31,4 +31,5 @@ set cursorline
 
 " Others
 set background=dark
+set scrolloff=100
 colorscheme gruvbox
